@@ -21,3 +21,4 @@ def get_customer_info(name):
 
 get_customer_info("Archer")
 print("dfadsf")
+print("dfadsf")
